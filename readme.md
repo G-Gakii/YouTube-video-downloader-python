@@ -7,7 +7,7 @@ pytube library
 
 ## installation and run
 ### clone the project 
-  git clone <link>
-  cd project
-  run
+  * git clone <link>
+  * cd project
+  * run
   
